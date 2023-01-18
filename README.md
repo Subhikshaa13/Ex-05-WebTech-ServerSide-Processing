@@ -163,4 +163,7 @@ def areacalculation(request):
 
 ![serversidesubhi](https://user-images.githubusercontent.com/118787344/213177529-b4342fdf-cc1d-4c5f-98cb-b1d5ef37f872.png)
 
+# RESULT :
+
+The program is executed succesfully
 
